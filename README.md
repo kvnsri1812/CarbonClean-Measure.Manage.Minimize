@@ -1,4 +1,4 @@
-# CarbonClean 🌱
+# CarbonClean 
 
 **Measure. Manage. Minimize.**
 
